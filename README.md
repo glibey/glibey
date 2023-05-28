@@ -1,10 +1,10 @@
-## Introduction
+## 👨 Introduction
 Experienced and versatile Information Technology professional adept at overseeing end-to-end technology projects with exceptional attention to deadlines. Possesses a strong aptitude for analysis and proficient programming techniques. Collaborative team player who excels in coordinating project cycles, testing, and successful final implementation. Skilled in effective communication and team management.
 
-## Education
+## 📙 Education
 - Master’s engineering degree in Computer System and Networks, Computer Sciences faculty, National University of Chernovtsy (2001 - 2006)
 
-## Skills
+## 💡 Skills
 - Frontend: AngularJS, Angular, TypeScript, JavaScript, HTML5, SASS, CSS, NgRx, NX Tool, GraphQL API, ReactJS, NodeJS, jQuery, Twitter Bootstrap 3/4, Foundation, Tailwind
 - PHP: Symfony, Laravel, CodeIgniter
 - Technologies: AJAX, JSON, XML
@@ -14,7 +14,7 @@ Experienced and versatile Information Technology professional adept at overseein
 - VCS: Subversion, Git
 - Methodologies: Scrum, Kanban
 
-## Projects
+## 📂 Projects
 - Tool for HR teams included integrated cloud-based modules, Recruit, Develop, and Manage, automate and support the entire employee lifecycle.
 - Online marketplace connecting travelers with unique accommodations worldwide. Secure bookings, reviews, and convenient payment processing.
 - Land management software for resource-based exploration projects, featuring consistent management oversight, geospatial integration, and financial commitments.
