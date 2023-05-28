@@ -2,7 +2,7 @@
 Experienced and versatile Information Technology professional adept at overseeing end-to-end technology projects with exceptional attention to deadlines. Possesses a strong aptitude for analysis and proficient programming techniques. Collaborative team player who excels in coordinating project cycles, testing, and successful final implementation. Skilled in effective communication and team management.
 
 ## 📙 Education
-- Master’s engineering degree in Computer System and Networks, Computer Sciences faculty, National University of Chernovtsy (2001 - 2006)
+- Master’s engineering degree in Computer System and Networks, Computer Sciences, National University of Chernovtsy (2001 - 2006)
 
 ## 💡 Skills
 - Frontend: AngularJS, Angular, TypeScript, JavaScript, HTML5, SASS, CSS, NgRx, NX Tool, GraphQL API, ReactJS, NodeJS, jQuery, Twitter Bootstrap 3/4, Foundation, Tailwind
